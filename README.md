@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Rsmiyani/Leetcode/tree/master/1051-height-checker) |
+| [1480-running-sum-of-1d-array](https://github.com/Rsmiyani/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Rsmiyani/Leetcode/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Rsmiyani/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
