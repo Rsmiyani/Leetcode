@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Rsmiyani/Leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1051-height-checker](https://github.com/Rsmiyani/Leetcode/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/Rsmiyani/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rsmiyani/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Rsmiyani/Leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
