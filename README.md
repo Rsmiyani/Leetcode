@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rsmiyani/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Rsmiyani/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rsmiyani/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rsmiyani/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Rsmiyani/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
