@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rsmiyani/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rsmiyani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rsmiyani/Leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rsmiyani/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rsmiyani/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rsmiyani/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Rsmiyani/Leetcode/tree/master/0389-find-the-difference) |
 | [1051-height-checker](https://github.com/Rsmiyani/Leetcode/tree/master/1051-height-checker) |
@@ -95,4 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rsmiyani/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
