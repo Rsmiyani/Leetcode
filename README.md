@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rsmiyani/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rsmiyani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Rsmiyani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1051-height-checker](https://github.com/Rsmiyani/Leetcode/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/Rsmiyani/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rsmiyani/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rsmiyani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Rsmiyani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Rsmiyani/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rsmiyani/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rsmiyani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rsmiyani/Leetcode/tree/master/0162-find-peak-element) |
+| [0713-subarray-product-less-than-k](https://github.com/Rsmiyani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## String Matching
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rsmiyani/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rsmiyani/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
